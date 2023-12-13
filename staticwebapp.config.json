@@ -2,5 +2,9 @@
   "globalHeaders": {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "POST, GET, OPTIONS"
+  },
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["*.{css, svg, js, ts, png, jpeg, jpg, ico}"]
   }
 }
