@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t,a as s}from"./index-9FRh32bV.js";const o={},_={class:"tech"},n=s("h1",null,"Tech",-1),a=[n];function r(d,h){return c(),t("div",_,a)}const l=e(o,[["render",r]]);export{l as default};
