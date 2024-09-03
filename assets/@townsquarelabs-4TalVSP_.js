@@ -1,0 +1,1 @@
+import"./@tonconnect-hpcNXwwh.js";
